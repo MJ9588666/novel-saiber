@@ -1,0 +1,25 @@
+{
+  "chapter": 1,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "RooftopAwakening",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch1/RooftopAwakening.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/0e/20260507/6e8aa136/aa505336-d27e-490f-8bdf-bb655d699d1b_0.png?Expires=1778229980&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=H1hrKAlgrMS%2Bsp4RaF9zxd2PPpw%3D",
+      "prompt": "Neo-Shanghai at night: towering cyberpunk skyscrapers with neon kanji and dragon motifs glow against stormy indigo sky; rain-slicked rooftop, lone figure (Asian male, trench coat, glowing circuit tattoos) stands at edge, gazing down at city—his eyes reflect digital constellations; cinematic wide shot, low-angle perspective, volumetric neon lighting with cyan/pink rim light, deep shadows, sci-fi realism, ultra-detailed, 8K"
+    },
+    {
+      "label": "DataSeaEntry",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch1/DataSeaEntry.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/26/20260507/6e8aa136/7509073a-6ae6-444c-a3ad-060a892cb898_0.png?Expires=1778230007&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=z7L0pSTBaEZ6%2BeQPR%2BEt4QwpAkY%3D",
+      "prompt": "Data Sea interior: infinite fractal ocean of floating binary glyphs, glowing fiber-optic currents, and collapsing server constellations; translucent human figure (Li Ming, 'Fengshen') hovers mid-air in zero-G, data streams swirling around him like auroras; anime-style composition with dynamic diagonal flow, ethereal bioluminescent blue-purple lighting, soft ambient glow, depth-of-field focus on face, intricate digital surrealism, sharp detail"
+    },
+    {
+      "label": "JiuyouConfrontation",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch1/JiuyouConfrontation.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/33/20260507/6e8aa136/84734b7c-f166-4279-831f-d5aaa804f0fa_0.png?Expires=1778230043&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=BiVWJ9VxdmKTjq6003h9UW40AC4%3D",
+      "prompt": "Confrontation in the Data Sea: Li Ming (light-blue energy sword drawn) and Mo Liusu (black robe, golden mask half-removed, revealing calm face) stand back-to-back amid shattered code fragments; looming behind them, colossal shadow-beast 'Jiuyou'—a serpentine void entity with burning ember eyes and fractal tentacles made of corrupted data; dramatic chiaroscuro lighting, high-contrast neon-black palette, Dutch angle composition, cinematic sci-fi anime style, motion blur on tendrils, hyper-detailed textures"
+    }
+  ]
+}
