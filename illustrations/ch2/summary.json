@@ -1,0 +1,25 @@
+{
+  "chapter": 2,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "main-cover-ch2",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch2/main-cover-ch2.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/6f/20260508/6e8aa136/506498d0-86b5-43e8-9b23-93bb92fd3240_0.png?Expires=1778303674&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=85k2imIRySuBtXZhk8VqGeJJe%2F0%3D",
+      "prompt": "Chinese sci-fi novel illustration, # 第2章  ### 第二章：迷雾中的线索  震动越来越强烈，数据海中仿佛有一股无形的力量正在撕裂整个空间。李明和墨流苏迅速交换了一个眼神，他们都知道，这股力量很可能是九幽的前兆。  “我们必须尽快找 cyberpunk aesthetic, holographic screens, neural network visualization, dark atmosphere, blue and purple neon lighting, cinematic composition, 4k detailed digital art, anime style"
+    },
+    {
+      "label": "consciousness-ch2",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch2/consciousness-ch2.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/41/20260508/6e8aa136/e6aeddb2-a67b-46c6-ad0d-87593f8012eb_0.png?Expires=1778304115&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=ENOOAplD0wvZSCioXp6ZFvM5K8c%3D",
+      "prompt": "futuristic AI consciousness concept art, digital soul awakening, ethereal light particles forming a human face in server room, blue data streams, Chinese sci-fi atmosphere, neon glow, detailed illustration, cinematic lighting, 8k"
+    },
+    {
+      "label": "silence-ch2",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch2/silence-ch2.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/2c/20260508/6e8aa136/c75fef05-7060-4021-af5b-91f9ca2e5a82_0.png?Expires=1778304142&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=jjlNkj0cgSKxbACW5tQ%2F5GMcAuQ%3D",
+      "prompt": "global network shutdown scene, all screens going dark, world map with fading connection dots, dramatic lighting, dark blue atmosphere, sci-fi thriller mood, cinematic wide shot, detailed digital illustration"
+    }
+  ]
+}
