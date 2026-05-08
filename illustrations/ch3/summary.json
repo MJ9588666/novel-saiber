@@ -1,0 +1,25 @@
+{
+  "chapter": 3,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "MonolithAndKey",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch3/MonolithAndKey.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/20/20260508/6e8aa136/c9353446-44ef-4a5d-a7d9-da4e91e06891_0.png?Expires=1778304817&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=2fxAQ2CcKL5SuI%2FKaXrxEyVn0jU%3D",
+      "prompt": "A mist-shrouded ancient stone monolith covered in glowing arcane glyphs, floating black fog coils around its base; cyberpunk/sci-fi hybrid style with intricate biomechanical texture and holographic shimmer; centered composition with low-angle view emphasizing monument's scale; dramatic chiaroscuro lighting—soft celestial glow from a floating key embedded in the center contrasting with deep indigo shadows and faint crimson rim-light from unseen watchers."
+    },
+    {
+      "label": "GuardiansConfrontation",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch3/GuardiansConfrontation.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/67/20260508/6e8aa136/afd2814f-7302-4812-8a97-3445491eda4d_0.png?Expires=1778304847&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=nN4Dt9Bj3h9XGML%2BdTQJSRUV3Hg%3D",
+      "prompt": "Two figures back-to-back in a swirling void of sentient darkness: a woman in ornate nano-weave armor wielding a plasma-edged sword, a man in tactical exo-suit raising a humming blue energy rifle; anime-inspired sci-fi style with dynamic linework and volumetric fog; medium-wide shot with diagonal tension, figures silhouetted against pulsing glyph-light; moody bioluminescent lighting—crimson eye-glow from shadow-construct enemies surrounding them, cool cyan shield aura radiating faintly."
+    },
+    {
+      "label": "ShadowGuardianGrasp",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch3/ShadowGuardianGrasp.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/77/20260508/6e8aa136/604aad3a-1127-477b-aa42-2f127dc2b60c_0.png?Expires=1778304877&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=pdhHKJtoyptZmzMvp4mqSJaGvzM%3D",
+      "prompt": "A towering biomechanical guardian emerging from abyssal darkness—obsidian scales, crackling green flame eyes, massive clawed hand gripping a man's wrist; sci-fi cinematic style with hyper-detailed surface texture and particle-laced atmosphere; tight framing focusing on the clenched hand and strained facial expression; high-contrast lighting—intense emerald highlights on scales, deep void-black background, radiant golden-white light flaring from nearby runes on a distant monolith."
+    }
+  ]
+}
