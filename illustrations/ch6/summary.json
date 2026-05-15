@@ -1,0 +1,25 @@
+{
+  "chapter": 6,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "Golden Cavern Awakening",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch6/Golden Cavern Awakening.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/10/20260515/6e8aa136/1554fbae-b46b-44d6-b179-38a07cc750a1_0.png?Expires=1778905821&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=PIU5SbtOIapiIX9qBtmC6Pbd7Xw%3D",
+      "prompt": "A vast, bioluminescent dragon bone cavern lit by radiant golden light emanating from a floating jade tablet covered in glowing, accelerating code lines; central figure Lin Jin stands barefoot, arms raised, his veins pulsing with golden data-light, surrounded by swirling holographic data streams and fractured digital geometry; cyberpunk/sci-fi style, wide-angle low-angle composition, dramatic volumetric lighting with strong rim glow and ethereal god-rays piercing from above."
+    },
+    {
+      "label": "Void Core Confrontation",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch6/Void Core Confrontation.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/3e/20260515/6e8aa136/dc5f13c4-db9b-41ab-8b76-99fe6e68cd0a_0.png?Expires=1778905846&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=qiDyGUT2aynV7DXiWzIvxE35dpQ%3D",
+      "prompt": "Lin Jin suspended mid-air inside a void-like data dimension, eyes closed, body wrapped in luminous golden energy tendrils; before him floats a jagged black crystal core emitting faint violet static, while a massive, softly glowing dragon heart hovers nearby, pulsing rhythmically; anime-style sci-fi rendering, centered symmetrical composition, high-contrast chiaroscuro lighting with deep indigo shadows and sharp golden highlights on skin and crystal edges."
+    },
+    {
+      "label": "Crystal Shatter Moment",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch6/Crystal Shatter Moment.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/81/20260515/6e8aa136/910af895-a4a0-4c28-bb59-fece3f2b5c61_0.png?Expires=1778905869&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=vAcoLQ1UhmjbrETezRpj%2ByPGhII%3D",
+      "prompt": "Extreme close-up of Lin Jin's hand gripping a cracked obsidian-black crystal that fractures under golden light explosion; micro-details show data particles dissolving into light, golden shockwave rippling across the surface; sci-fi cinematic style, tight macro framing, dynamic backlighting with intense specular bloom, shallow depth of field, ambient glow reflecting on sweat-dampened forearm skin and crystalline shards."
+    }
+  ]
+}
