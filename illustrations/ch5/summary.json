@@ -1,0 +1,25 @@
+{
+  "chapter": 5,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "Data Ocean Descent",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch5/Data Ocean Descent.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/38/20260515/6e8aa136/f7745b44-f345-4ebc-8573-5c906661a841_0.png?Expires=1778905629&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=3Y5mdxd37oP1aHvZwl6%2FICUSCAc%3D",
+      "prompt": "A lone human figure,林烬, suspended mid-air in a vast, luminous data ocean — swirling cyan and violet streams of binary code and glowing glyphs envelop him; cyberpunk/sci-fi style, wide-angle vertical composition, dramatic volumetric lighting with bioluminescent particles radiating from his chest; soft golden backlight contrasts deep indigo void; subtle heartbeat pulse visualized as concentric light ripples around his body; ultra-detailed, cinematic realism, 8K"
+    },
+    {
+      "label": "Resonance Heart Chamber",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch5/Resonance Heart Chamber.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/2e/20260515/6e8aa136/825e50df-b2ae-4852-bf68-37d347c1f45a_0.png?Expires=1778905655&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=9mbsRdEzdZJ7TuVveo9PftYP%2FWM%3D",
+      "prompt": "A surreal zero-gravity void space with infinite darkness pierced by a single floating, translucent biomechanical heart — pulsing warm gold light, intricate circuitry veins glowing beneath its surface, faint data streams orbiting it like auroras; anime-meets-sci-fi style, centered symmetrical composition, chiaroscuro lighting with radiant core illumination casting long soft shadows; ethereal atmosphere, hyper-detailed organic-tech texture, cinematic depth of field, lens flare on heart’s apex"
+    },
+    {
+      "label": "Blood Infusion Moment",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch5/Blood Infusion Moment.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/33/20260515/6e8aa136/7eea280b-2218-4212-81f3-8a96897ff594_0.png?Expires=1778905681&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=QEmLjkne8irw1YVQP9gKSDUv3Qw%3D",
+      "prompt": "Close-up of a glowing jade artifact (Yu Jue) embedded in cracked obsidian pedestal, its surface now blazing with golden fractal code — a single drop of levitating crimson blood merges into its center, emitting radiant shockwaves that freeze time in the air; sci-fi/cyberpunk hybrid style, tight frontal framing, high-contrast dramatic lighting with golden rim light and deep violet ambient fill; micro-details on code glyphs, subsurface scattering on jade, particle glow trails; ultra-sharp focus, moody yet hopeful tone"
+    }
+  ]
+}
