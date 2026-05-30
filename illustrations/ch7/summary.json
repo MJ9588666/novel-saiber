@@ -1,0 +1,25 @@
+{
+  "chapter": 7,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "Dark_Heart_Confrontation",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch7/Dark_Heart_Confrontation.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/8d/20260531/6e8aa136/c0ee16c2-96d6-4da6-9021-b881e53c92bb_0.png?Expires=1780269485&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=IgURK2Npap%2F7GQlGd1ggs%2BaxfGs%3D",
+      "prompt": "A lone human figure,林烬, kneeling before a floating obsidian-black crystalline heart radiating cold violet energy pulses; cyberpunk/sci-fi style with intricate biomechanical details, dramatic low-angle composition, stark chiaroscuro lighting—deep shadows contrasted by sharp neon-blue data streams swirling around his outstretched hand as glowing code fragments materialize in the air; volumetric fog, metallic floor reflections, high-detail realism."
+    },
+    {
+      "label": "Vortex_Code_Battle",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch7/Vortex_Code_Battle.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/a0/20260531/6e8aa136/5bff1694-b727-4ae1-aabe-3f9969f6d441_0.png?Expires=1780269510&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=j%2BBdyAO7P1nVSvE1dtgVcCz%2BX60%3D",
+      "prompt": "Lin Jin suspended mid-air inside a collapsing digital vortex, body wrapped in golden-lit bioluminescent energy tendrils from a hovering crimson dragon-heart; anime/sci-fi hybrid style, dynamic diagonal composition, dramatic backlighting from a distant radiant core, fractured black crystal shards flying outward; intense motion blur on debris, glowing circuit-pattern skin texture, deep indigo void background with floating binary glyphs and particle sparks."
+    },
+    {
+      "label": "Golden_Core_Awakening",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch7/Golden_Core_Awakening.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/ac/20260531/6e8aa136/26512100-0f89-44cc-a997-7d0c431661ea_0.png?Expires=1780269531&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=BSw7FgdKjLhlxM%2BPDx%2BiCnWtAIk%3D",
+      "prompt": "Close-up of Lin Jin's hand gently touching a luminous golden tetrahedral crystal floating in serene zero-gravity space; sci-fi/anime style with ethereal soft-focus glow, centered symmetrical composition, warm volumetric lighting emanating from the crystal illuminating his determined face and faint golden veins pulsing under his skin; subtle lens flare, starfield backdrop with gentle light diffusion, ultra-detailed metallic-glass texture on crystal surface."
+    }
+  ]
+}
