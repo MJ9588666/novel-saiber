@@ -47,5 +47,12 @@
     "free": false,
     "date": "2026-05-16",
     "file": "chapter-07.md"
+  },
+  {
+    "num": 8,
+    "title": "第8章",
+    "free": false,
+    "date": "2026-06-01",
+    "file": "chapter-08.md"
   }
 ]
