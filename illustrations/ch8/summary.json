@@ -1,0 +1,25 @@
+{
+  "chapter": 8,
+  "total": 3,
+  "success": 3,
+  "images": [
+    {
+      "label": "Void_Crystal",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch8/Void_Crystal.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/19/20260617/3a46c997/4dd508c5-3724-442b-a4b6-6bc3042a69eb_0.png?Expires=1781764619&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=shykfWT5Hzl0XaO3InUhuH11hfI%3D",
+      "prompt": "A lone human figure,林烬, stands in infinite void filled with radiant golden light; he holds a glowing geometric golden crystal emitting warm bioluminescent pulses; cyberpunk/sci-fi style, ultra-detailed digital painting, centered composition with figure small against vast cosmic scale, volumetric god rays converging on the crystal, soft ambient glow contrasting deep black void, cinematic depth of field, 8K resolution, intricate data-particle effects swirling around him."
+    },
+    {
+      "label": "Golden_Palace",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch8/Golden_Palace.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/da/20260617/3a46c997/272a63e7-799e-4e5a-aae5-2f48140aa6d6_0.png?Expires=1781764643&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=yBiB3DmUZQ9t%2FWYhu%2FgbVLJmaKg%3D",
+      "prompt": "Ancient digital palace floating in data ocean: walls made of flowing golden code streams and luminous oracle glyphs;林烬 enters through arched gateway, awed expression; anime-meets-sci-fi style, symmetrical frontal composition, ethereal golden backlight illuminating his silhouette, soft ambient light from floating runes, highly detailed architecture with fractal patterns, translucent data veils, rich amber and sapphire color palette, dreamlike clarity and sacred atmosphere."
+    },
+    {
+      "label": "Fire_Wall",
+      "filepath": "/Users/jiangjun/xianyu-products/novel-saiber/illustrations/ch8/Fire_Wall.png",
+      "url": "https://dashscope-7c2c.oss-accelerate.aliyuncs.com/1d/c3/20260617/3a46c997/74ddea31-dec1-442f-aff7-4d340c627f42_0.png?Expires=1781764675&OSSAccessKeyId=LTAI5tPxpiCM2hjmWrFXrym1&Signature=BnkaNnLn2l%2BQhEcNa321%2FGBDt4Q%3D",
+      "prompt": "Desolate wasteland under bruised violet sky, cracked earth glowing with residual heat;林烬 faces towering炎帝 emerging from colossal wall of roaring crimson fire; sci-fi style with cyber-mythological fusion, dynamic diagonal composition, intense directional firelight casting long dramatic shadows, heat distortion waves, ember particles,炎帝's fiery eyes and red robes rendered in luminous emissive textures, high-detail atmospheric perspective, moody contrast between infernal warmth and desolate cold."
+    }
+  ]
+}
